@@ -17,12 +17,12 @@ public class RentalSystemRunner
         String openingHours = "Libraries are open daily from 9am to 5pm.";
 
         // Add four books to the first library and two to the second.
-        firstLibrary.addBook(new Book("The Grapes of Wrath", "John Steinbeck", 1939));
-        firstLibrary.addBook(new Book("Jurassic Park", "Michael Crichton", 1990));
-        firstLibrary.addBook(new Book("The Catcher in the Rye", "J. D. Salinger", 1951));
-        firstLibrary.addBook(new Book("The Curious Incident of the Dog in the Night-time", "Mark Haddon", 2003));
-        secondLibrary.addBook(new Book("1984", "George Orwell", 1949));
-        secondLibrary.addBook(new Book("The Glass Castle", "Jeanette Walls", 2005));
+        firstLibrary.addBook(new Book("The Grapes of Wrath", "John Steinbeck", "Fiction", 1939));
+        firstLibrary.addBook(new Book("Jurassic Park", "Michael Crichton", "Sci-Fi", 1990));
+        firstLibrary.addBook(new Book("The Catcher in the Rye", "J. D. Salinger", "Fiction", 1951));
+        firstLibrary.addBook(new Book("The Curious Incident of the Dog in the Night-time", "Mark Haddon", "Mystery", 2003));
+        secondLibrary.addBook(new Book("1984", "George Orwell", "Political Fiction", 1949));
+        secondLibrary.addBook(new Book("The Glass Castle", "Jeanette Walls", "Memoir", 2005));
 
         // Print opening hours and the addresses
         System.out.println("Library hours:");

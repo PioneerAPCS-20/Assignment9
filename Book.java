@@ -9,6 +9,7 @@ public class Book
 {
     private String title;
     private String author;
+    private String genre;
     private int year;
     private boolean rented;
 
@@ -17,9 +18,10 @@ public class Book
      *
      * @param t - title of the book
      * @param a - author of the book
+     * @param g - genre
      * @param y - year book was published
      */
-    public Book(String t, String a, int y)
+    public Book(String t, String a, String g, int y)
     {
         
     }
