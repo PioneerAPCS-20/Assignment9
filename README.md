@@ -21,10 +21,10 @@ List of books at Library (10 Main St.):
 "The Grapes of Wrath by John Steinbeck (1939)"
 "Jurassic Park by Michael Crichton (1990)"
 "The Catcher in the Rye by J. D. Salinger (1951)"
-"The Glass Castle by Jeanette Walls (2005)"
 "The Curious Incident of the Dog in the Night-time by Mark Haddon (2003)"
 List of books at Library (228 Liberty St.):
 "1984 by George Orwell (1949)"
+"The Glass Castle by Jeanette Walls (2005)"
 
 Which book would you like to borrow?
 You successfully rented "Jurassic Park" from Library (10 Main St.)
@@ -33,10 +33,10 @@ List of books at Library (10 Main St.):
 "The Grapes of Wrath by John Steinbeck (1939)"
 "Jurassic Park by Michael Crichton (1990)" -- OUT OF STOCK
 "The Catcher in the Rye by J. D. Salinger (1951)"
-"The Glass Castle by Jeanette Walls (2005)"
 "The Curious Incident of the Dog in the Night-time by Mark Haddon (2003)"
 List of books at Library (228 Liberty St.):
 "1984 by George Orwell (1949)"
+"The Glass Castle by Jeanette Walls (2005)"
 
 Which book would you like to return?
 That book is not part of our catalog.
@@ -47,10 +47,10 @@ List of books at Library (10 Main St.):
 "The Grapes of Wrath by John Steinbeck (1939)"
 "Jurassic Park by Michael Crichton (1990)"
 "The Catcher in the Rye by J. D. Salinger (1951)"
-"The Glass Castle by Jeanette Walls (2005)"
 "The Curious Incident of the Dog in the Night-time by Mark Haddon (2003)"
 List of books at Library (228 Liberty St.):
 "1984 by George Orwell (1949)"
+"The Glass Castle by Jeanette Walls (2005)"
 ```
 
 ### Grading
