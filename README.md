@@ -6,7 +6,7 @@ Use the three starter files: `Library.java`, `Book.java`, `RentalSystemRunner.ja
 
 The files have descriptions for the methods already implemented and the ones you need to complete.
 
-Refer to the [generated Java Docs](https://pioneerapcs-20.github.io/Starter/package-summary.html) for `Book.java` and `Library.java` as a reference when completing `RentalSystemRunner.java`.
+Refer to the [generated Java Docs](https://pioneerapcs-20.github.io/A9/Starter/package-summary.html) for `Book.java` and `Library.java` as a reference when completing `RentalSystemRunner.java`.
 
 ### Your output should look like the following:
 
